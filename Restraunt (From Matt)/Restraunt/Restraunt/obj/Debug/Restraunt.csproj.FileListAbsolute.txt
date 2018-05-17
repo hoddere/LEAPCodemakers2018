@@ -1,0 +1,16 @@
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\bin\Debug\Restraunt.exe
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\bin\Debug\Restraunt.pdb
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\obj\Debug\Restraunt.FrmRestraunt.resources
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\obj\Debug\Restraunt.Properties.Resources.resources
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\obj\Debug\Restraunt.csproj.GenerateResource.Cache
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\obj\Debug\Restraunt.exe
+C:\Users\Sordo\AppData\Local\Temporary Projects\Restraunt\obj\Debug\Restraunt.pdb
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\obj\Debug\Restraunt.exe
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\obj\Debug\Restraunt.pdb
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\bin\Debug\Restraunt.exe
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\bin\Debug\Restraunt.pdb
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\obj\Debug\Restraunt.FrmRestraunt.resources
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\obj\Debug\Restraunt.Properties.Resources.resources
+C:\Users\Sordo\Downloads\programming\Restraunt\Restraunt\obj\Debug\Restraunt.csproj.GenerateResource.Cache
