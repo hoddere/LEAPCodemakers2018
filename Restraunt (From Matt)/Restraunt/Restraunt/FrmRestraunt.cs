@@ -84,8 +84,6 @@ namespace Restraunt
             LblTax.Text = "$0";
             LblBill.Text = "$0";
 
-            TxtName.Text = "";//resets name to a balnk text
-
             //actually resets the values to $0
             drink = 0;
             entree = 0;
@@ -97,16 +95,15 @@ namespace Restraunt
 
         private void BtnBill_Click(object sender, EventArgs e)
         {
-
             tax = (drink + side + entree) * 0.13;//calculates the tax of the meal
             LblTax.Text = tax.ToString("c");//shows user how much the take is
 
             cost = (drink + side + entree) * 1.13;//adds up cost of the meal and adds tax as well
-            
-            //displays the customers name and total cost of the meal 
-            LblBill.Text = TxtName.Text + " your bill is " + cost.ToString("c");
-
+            LblBill.Text = cost.ToString("c");//displays the total cost of th emeal to the user
         }
+
+
+
 
     }
 }
