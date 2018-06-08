@@ -87,19 +87,19 @@ class QuizFrame():
         self.answerC.grid_forget()
         self.answerD.grid_forget()
 
-        if self.questions[num][responseNum] == "Shrekology":
-            self.shrek(master)
-        else:
+        #if self.questions[num][responseNum] == "Shrekology":
+        #    self.shrek(master)
+        #else:
             
-            if self.questions[num][responseNum] == self.answers[num]:
-                try:
-                    self.score += 1
-                    self.level.grid_forget()
-                    self.question(master, num+1)
-                except:
-                    self.winningScreen(master)
-            else:
-                self.gameOver(master)
+        if self.questions[num][responseNum] == self.answers[num]:
+            try:
+                self.score += 1
+                self.level.grid_forget()
+                self.question(master, num+1)
+            except:
+                self.winningScreen(master)
+        else:
+            self.gameOver(master)
 
     def gameOver(self,master):
         self.lostLabel=Label(self.mainframe,text="Sorry, " + self.playerName + ", you lost. You made it to round " + str(self.score) + ".\n Would you like to play again?",font=("Verdana",15),fg="white",bg="black")
