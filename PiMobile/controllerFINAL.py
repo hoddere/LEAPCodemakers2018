@@ -30,7 +30,10 @@ try:
 					print("The A button was pressed")
 					motor1.clockwise(speed=100)
 					motor2.clockwise(speed=100)
-				
+				if event.code == 290:
+					print("The B button was pressed")
+					motor1.anticlockwise(speed=100)
+					motor2.anticlockwise(speed=100)
 				# Add some code here for the other buttons
 				
 			
