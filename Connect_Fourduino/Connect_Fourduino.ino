@@ -25,7 +25,6 @@ int player1pos = 0;
 int player2spots[64];
 int player2pos = 0;
 
-
 Joystick joystick(JOYSTICK_PIN_VRX,JOYSTICK_PIN_VRY,JOYSTICK_PIN_SW);
 
 void setup() {
@@ -132,7 +131,7 @@ void loop() {
   for (int i = 0; i <player2pos; i++){
     matrix.setPixelColor(player2spots[i],0,0,255);
   }
-
+  
   matrix.show();
   delay(150);
   

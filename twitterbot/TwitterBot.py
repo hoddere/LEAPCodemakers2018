@@ -17,31 +17,31 @@ for i in range(5):
     
     if RandomNumber==1:
         TweetMessage = 'Canada'
-        TweetPhoto = '/Users/Emily Hodder/Desktop/twitterbot/Images/can.jpg'
+        TweetPhoto = '/Users/Emily Hodder/Desktop/LEAPCodemakers2018/twitterbot/Images/can.jpg'
 
     elif RandomNumber==2:
         TweetMessage = 'United States'
-        TweetPhoto = '/Users/Emily Hodder/Desktop/twitterbot/Images/usa.jpg'
+        TweetPhoto = '/Users/Emily Hodder/Desktop/LEAPCodemakers2018/twitterbot/Images/usa.jpg'
 
     elif RandomNumber==3:
         TweetMessage = 'Italy'
-        TweetPhoto = '/Users/Emily Hodder/Desktop/twitterbot/Images/italy.jpg'
+        TweetPhoto = '/Users/Emily Hodder/Desktop/LEAPCodemakers2018/twitterbot/Images/italy.jpg'
 
     elif RandomNumber==4:
         TweetMessage = 'France'
-        TweetPhoto ='/Users/Emily Hodder/Desktop/twitterbot/Images/french.jpg'
+        TweetPhoto ='/Users/Emily Hodder/Desktop/LEAPCodemakers2018/twitterbot/Images/french.jpg'
 
     elif RandomNumber==5:
         TweetMessage = 'Germany'
-        TweetPhoto = '/Users/Emily Hodder/Desktop/twitterbot/Images/germ.jpg'
+        TweetPhoto = '/Users/Emily Hodder/Desktop/LEAPCodemakers2018/twitterbot/Images/germ.jpg'
 
     elif RandomNumber==6:
         TweetMessage = 'United Kingdom'
-        TweetPhoto ='/Users/Emily Hodder/Desktop/twitterbot/Images/uk.jpg'
+        TweetPhoto ='/Users/Emily Hodder/Desktop/LEAPCodemakers2018/twitterbot/Images/uk.jpg'
 
     elif RandomNumber==7:
         TweetMessage = 'Mexico'
-        TweetPhoto ='/Users/Emily Hodder/Desktop/twitterbot/Images/mex.jpg'
+        TweetPhoto ='/Users/Emily Hodder/Desktop/LEAPCodemakers2018/twitterbot/Images/mex.jpg'
 
     print(TweetMessage)
     print(TweetPhoto)
